@@ -1,6 +1,4 @@
-flask
+Flask
 tensorflow
 numpy
-pandas
-gunicorn
-flask_cors
+flask-cors
